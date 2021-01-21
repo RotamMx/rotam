@@ -118,7 +118,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-    background: #30352f;
+    background: #1b1f1a;
 }
 
 #header .logo {
@@ -414,7 +414,7 @@ h6 {
 }
 
 #hero h2 {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(24, 22, 22, 0.6);
     margin-bottom: 50px;
     font-size: 24px;
 }
