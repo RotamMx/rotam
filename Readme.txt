@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+rotam.io
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Plantilla web en HTML, CSS y Javascript.
+
+Glue between Data Server, fotoinfraccion.jalisco.gob.mx
